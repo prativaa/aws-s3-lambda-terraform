@@ -40,5 +40,4 @@ variable "lambda_at_edge" {
 
 variable "function_name" {
   type = "string"
-  default = "servei18n"
 }
